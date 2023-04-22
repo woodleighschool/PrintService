@@ -1,0 +1,3 @@
+flask
+Pillow
+brother_ql
